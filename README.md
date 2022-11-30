@@ -1,3 +1,3 @@
 # CICDTest - CICDTest
 > This is CAP test app for CI/CD
->Test 5
+>Test 6
